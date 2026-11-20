@@ -1,0 +1,18 @@
+# Données lourdes et sensibles
+data/
+logs/
+models/*.pkl
+models/*.joblib
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
