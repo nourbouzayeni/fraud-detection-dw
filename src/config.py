@@ -9,6 +9,5 @@ DATA_PROCESSED = ROOT / "data" / "processed"
 
 REPORTS_EXPLORATION = ROOT / "reports" / "exploration"
 REPORTS_QUALITY = ROOT / "reports" / "data_quality"
-
-PAYSIM_FILE = DATA_RAW / "paysim" / "PS_20174392719_1491204439457_log.csv"
-ULB_FILE = DATA_RAW / "ulb_creditcard" / "creditcard.csv"
+IEEE_TRANSACTION = DATA_RAW / "ieee_cis" / "train_transaction.csv"
+IEEE_IDENTITY = DATA_RAW / "ieee_cis" / "train_identity.csv"

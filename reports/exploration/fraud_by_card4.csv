@@ -1,0 +1,6 @@
+card4,nb_transactions,nb_fraudes,taux_fraude
+visa,384767,13373,3.48
+mastercard,189217,6496,3.43
+american express,8328,239,2.87
+discover,6651,514,7.73
+,1577,41,2.6
